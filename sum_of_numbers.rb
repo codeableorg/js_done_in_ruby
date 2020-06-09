@@ -1,3 +1,4 @@
+# source: https://www.codewars.com/kata/55f2b110f61eb01779000053/train/ruby
 def get_sum(a, b)
   # Since ruby has the magic ranges, the solution to
   # this exercise is almost trivial: we build a range from

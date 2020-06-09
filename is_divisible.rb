@@ -1,3 +1,4 @@
+# source: https://www.codewars.com/kata/5545f109004975ea66000086/train/ruby
 def is_divisible(n, x, y)
   # Checking if the reminder of a division is equal to 0 allows
   # to know if a number is divisible by another
